@@ -1,0 +1,2 @@
+# spring-feignclient-multipleconfiguration
+spring-feignclient-multipleconfiguration
